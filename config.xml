@@ -6,14 +6,14 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Calculadora</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Calculadora digital.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+        Esteban Cabrera A.
     </author>
 
     <!--
